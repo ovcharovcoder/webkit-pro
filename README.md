@@ -14,12 +14,10 @@
 
 ## Структура репозиторію
 
-**Bootstrap**
+**Bootstrap**:<br>
   /assets # Ресурси (логотипи, іконки)<br>
   /header # Шаблони для header<br>
   /components # Готові шаблони компонентів<br>
   /footer # Шаблони для footer
-  
-**TailwindCSS**
-**WordPress**
+
 
