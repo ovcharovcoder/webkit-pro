@@ -15,7 +15,7 @@
 ## Структура репозиторію
 
 **Bootstrap**:<br>
-  /assets # Ресурси (логотипи, іконки)<br>
+  /assets # Ресурси (js, css)<br>
   /header # Шаблони для header<br>
   /components # Готові шаблони компонентів<br>
   /footer # Шаблони для footer
