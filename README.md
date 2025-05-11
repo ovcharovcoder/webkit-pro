@@ -20,6 +20,6 @@
   /components # Готові шаблони компонентів<br>
   /footer # Шаблони для footer
 
-  <img src="logo.webp" alt="webkit-pro">
+  <img src="logo.webp" alt="webkit-pro" style="width: 300px;">
 
 
