@@ -1,17 +1,17 @@
 **Footer №1:
 <a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-1">Simple footer with social media in the center.</a>**
 
-<img src="footer-1/screenshot.png" alt="webkit-pro" style="width: 400px;">
+<img src="footer-1/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №2:
 <a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-2">Footer with centered menu.</a>**
 
-<img src="footer-2/screenshot.png" alt="webkit-pro" style="width: 400px;">
+<img src="footer-2/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №3:
 <a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-3">Footer with centered menu in two columns.</a>**
 
-<img src="footer-3/screenshot.png" alt="webkit-pro" style="width: 400px;">
+<img src="footer-3/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
