@@ -14,4 +14,6 @@
 
   <img src="logo.webp" alt="webkit-pro" style="width: 300px;">
 
+Made with ♥ by Andriy Ovcharov
+
 
