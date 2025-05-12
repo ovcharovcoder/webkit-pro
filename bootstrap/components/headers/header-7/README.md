@@ -1,3 +1,3 @@
-Navigation menu that opens from the top.
+Navigation menu that opens down
 
 <img src="screenshot.png" alt="webkit-pro" style="width: 800px;">
