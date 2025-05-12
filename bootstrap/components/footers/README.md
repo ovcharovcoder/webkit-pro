@@ -33,3 +33,27 @@
 
 <img src="footer-6/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
+
+**Footer №7:
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-7">Simple footer with centered menu</a>**
+
+<img src="footer-7/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<br>
+
+**Footer №8:
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-8">Creative Footer with icons</a>**
+
+<img src="footer-8/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<br>
+
+**Footer №9:
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-9">Simple footer with icons in the center</a>**
+
+<img src="footer-9/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<br>
+
+**Footer №10:
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-10">Simple footer with centered menu</a>**
+
+<img src="footer-10/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<br>
