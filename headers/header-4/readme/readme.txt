@@ -1,1 +1,0 @@
-Navigation menu with a button in the center.

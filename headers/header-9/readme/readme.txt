@@ -1,1 +1,0 @@
-Navigation menu with social networks
