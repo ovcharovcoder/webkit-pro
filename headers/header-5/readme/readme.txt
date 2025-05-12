@@ -1,0 +1,1 @@
+Navigation menu with logo in the center

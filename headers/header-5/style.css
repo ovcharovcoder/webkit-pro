@@ -1,0 +1,5 @@
+@media (min-width: 992px) {
+	#navbarMobile {
+		display: none !important;
+	}
+}

@@ -1,0 +1,1 @@
+The navigation menu that appears on the right contains a form and a drop-down list.
