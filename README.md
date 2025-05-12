@@ -11,7 +11,7 @@
 - **Flexibility**: components can be modified with any projects that are based on Bootstrap 5 or Tailwind.
 - **Ready templates**: templates for header, footer and other interface elements.
 - **Current design**: stylish, adaptive and lightweight design for various devices.
-- **Modularity**: you can select components that are not necessary for the project.
+- **Modularity**: you can choose only the necessary components for the project.
 
   <img src="logo.webp" alt="webkit-pro" style="width: 300px;">
 
