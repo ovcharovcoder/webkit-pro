@@ -35,7 +35,7 @@
 <br>
 
 **Header №7:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/headers/header-7">Navigation menu that opens from the top.</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/headers/header-7">Navigation menu that opens down.</a>**
 
 <img src="header-7/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
