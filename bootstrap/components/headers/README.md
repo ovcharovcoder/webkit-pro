@@ -1,7 +1,7 @@
 **Header №1:
 <a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/headers/header-1">Simple header with social media in the center.</a>**
 
-<img src="header-1/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="header-1/screenshot.jpg" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Header №2:
