@@ -17,7 +17,7 @@
 <br>
 
 **Footer №4:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-4">Simple footer with centered menu.</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-4">Footer with centered menu in two columns and icons.</a>**
 
 <img src="footer-4/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
