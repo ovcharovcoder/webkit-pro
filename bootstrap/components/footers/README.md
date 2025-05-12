@@ -21,3 +21,9 @@
 
 <img src="footer-4/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
+
+**Footer №5:
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-5">Simple footer with centered menu.</a>**
+
+<img src="footer-5/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<br>
