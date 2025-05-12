@@ -4,7 +4,7 @@
 **Start of the project**: 11.05.2025;<br>
 **License** MIT License.
 
-**WebKit Pro** — This is a modern code template library that includes components for building web interfaces. It is built on Bootstrap 5 and Tailwind CSS, allowing you to quickly create responsive, modular, and efficient web pages with ready-made templates for the most common interface elements..
+**WebKit Pro** — This is a modern code template library that includes components for building web interfaces. It is built on Bootstrap 5 and Tailwind CSS, allowing you to quickly create responsive, modular, and efficient web pages with ready-made templates for the most common interface elements.
 
 ## Features
 
