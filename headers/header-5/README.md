@@ -1,3 +1,3 @@
-Navigation menu with a form and a drop-down list.
+Navigation menu with logo in the center.
 
 <img src="screenshot.png" alt="webkit-pro" style="width: 800px;">
