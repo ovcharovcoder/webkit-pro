@@ -10,7 +10,7 @@ Simple footer with centered menu.**
 <img src="footer-2/screenshot.png" alt="webkit-pro" style="width: 400px;">
 <br>
 
-**Footer №1:
+**Footer №3:
 Simple footer with centered menu.**
 
 <img src="footer-3/screenshot.png" alt="webkit-pro" style="width: 400px;">
