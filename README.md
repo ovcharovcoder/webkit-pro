@@ -1,17 +1,17 @@
 # webkit-pro
 
-**Автор**: Andriy Ovcharov;<br>
-**Старт проєкту**: 11.05.2025;<br>
-**Ліцензія** MIT License.
+**Author**: Andriy Ovcharov;<br>
+**Start of the project**: 11.05.2025;<br>
+**License** MIT License.
 
-**WebKit Pro** — це сучасна бібліотека шаблонів коду, що включає компоненти для побудови веб-інтерфейсів. Вона побудована на основі Bootstrap 5 та Tailwind CSS і дозволяє швидко створювати адаптивні, модульні та ефективні веб-сторінки з готовими шаблонами для найпоширеніших елементів інтерфейсу.
+**WebKit Pro** — This is a modern code template library that includes components for building web interfaces. It is built on Bootstrap 5 and Tailwind CSS, allowing you to quickly create responsive, modular, and efficient web pages with ready-made templates for the most common interface elements..
 
-## Особливості
+## Features
 
-- **Гнучкість**: компоненти можуть використовуватися з будь-якими проєктами, що базуються на Bootstrap 5 або Tailwind.
-- **Готові шаблони**: шаблони для header, footer та інших елементів інтерфейсу.
-- **Сучасний дизайн**: стильний, адаптивний та легкий у використанні дизайн для різних пристроїв.
-- **Модульність**: можна вибирати лише необхідні компоненти для проєкту.
+- **Flexibility**: components can be modified with any projects that are based on Bootstrap 5 or Tailwind.
+- **Ready templates**: templates for header, footer and other interface elements.
+- **Current design**: stylish, adaptive and lightweight design for various devices.
+- **Modularity**: you can select components that are not necessary for the project.
 
   <img src="logo.webp" alt="webkit-pro" style="width: 300px;">
 
