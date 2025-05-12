@@ -27,3 +27,9 @@
 
 <img src="footer-5/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
+
+**Footer №6:
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-6">Footer with form</a>**
+
+<img src="footer-6/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<br>
