@@ -3,7 +3,7 @@ Modern Code Template Library for Fast & Flexible UI Development
 
 <h2>Info</h2>
 
--**Author** : Andriy Ovcharov;<br>
+**Author** : Andriy Ovcharov;<br>
 **Start of the project**: 11.05.2025;<br>
 **License** MIT License.
 
