@@ -22,7 +22,7 @@ Modern code template library for fast & flexible UI development
 Each component is plug-and-play, easily customizable, and mobile-ready out of the box.
 
 ## How to use
-**1. Browse Online**<br> Explore components directly via the GitHub interface — navigate folders and copy the code you need:
+**Browse Online**<br> Explore components directly via the GitHub interface — navigate folders and copy the code you need:
 
 **Menu — WebKit Pro**
 
@@ -32,8 +32,6 @@ Each component is plug-and-play, easily customizable, and mobile-ready out of th
 | 2  | Tailwind CSS | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/tailwind) | Tailwind is the first solution with a modern design. |
 | 3  | WordPress | [Templates](https://github.com/ovcharovcoder/webkit-pro/tree/main/wordpress) | PHP templates, including integration with ACF, WPML, Polylang. |
 
-**2. Clone and use locally**<br>
-Get the full project on your machine: <pre lang="markdown"> ```bash git clone https://github.com/ovcharovcoder/webkit-pro.git ``` </pre>
 
 
 
