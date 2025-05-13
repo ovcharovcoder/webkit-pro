@@ -1,60 +1,72 @@
 **Footer №1:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-1">Simple footer with social media in the center.</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Two simple cards with a title and text in the center.</a>**
 
-<img src="footer-1/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-1/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №2:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-2">Footer with centered menu.</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three simple cards with a title and text in the center.</a>**
 
-<img src="footer-2/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-2/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №3:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-3">Footer with centered menu in two columns.</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three simple cards with an icon, title and text in the center.</a>**
 
-<img src="footer-3/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-3/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №4:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-4">Footer with centered menu in two columns and icons.</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Four simple cards with an icon, title and text in the center.</a>**
 
-<img src="footer-4/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-4/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №5:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-5">Simple footer with centered menu.</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three simple cards with an icon, title and text in the center and a button.</a>**
 
-<img src="footer-5/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-5/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №6:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-6">Footer with form</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three simple cards with a border, have an icon, a title and text in the center and a button.</a>**
 
-<img src="footer-6/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-6/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №7:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-7">Simple footer with centered menu</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three cards with image, text and button.</a>**
 
-<img src="footer-7/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-7/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №8:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-8">Creative Footer with icons</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Two cards with an image on the left side, text and two buttons.</a>**
 
-<img src="footer-8/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-8/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №9:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-9">Simple footer with icons in the center</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three cards with an image, author, date and text is ideal for a blog.</a>**
 
-<img src="footer-9/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-9/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №10:
-<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-10">Simple footer with centered menu</a>**
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three cards with an carousel, author, date and text is for a blog.</a>**
 
-<img src="footer-10/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-10/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<br>
+
+**Footer №11:
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three cards with the author and text on the background of the image is good for a blog.</a>**
+
+<img src="card-10/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<br>
+
+**Footer №12:
+<a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Three cards for customer testimonials.</a>**
+
+<img src="card-10/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
