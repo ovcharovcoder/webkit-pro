@@ -1,4 +1,4 @@
-## 📦 Bootstrap Cards — WebKit Pro Components
+## Bootstrap Cards — WebKit Pro Components
 
 | №  | Preview | Description |
 |----|---------|-------------|
