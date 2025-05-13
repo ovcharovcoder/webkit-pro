@@ -31,7 +31,7 @@ Each component is plug-and-play, easily customizable, and mobile-ready out of th
 | 3  | WordPress | [Templates](https://github.com/ovcharovcoder/webkit-pro/tree/main/wordpress) | PHP templates, including integration with ACF, WPML, Polylang. |
 
 **2. Clone and Use Locally**
-Get the full project on your machine: <code>git clone https://github.com/ovcharovcoder/webkit-pro.git</code>
+Get the full project on your machine: git clone https://github.com/ovcharovcoder/webkit-pro.git
 
 
 
