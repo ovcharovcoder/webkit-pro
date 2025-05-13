@@ -1,4 +1,9 @@
-<div style: "display: flex;">
+| Footer №1                                                                 | Footer №2                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **[Two simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1)** | **[Three simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-2)** |
+| <img src="card-1/screenshot.png" alt="card-1" width="300"/>              | <img src="card-2/screenshot.png" alt="card-2" width="300"/>              |
+
+
 **Footer №1:
 <a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Two simple cards with a title and text in the center.</a>**
 
@@ -70,5 +75,7 @@
 
 <img src="card-12/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
-</div>
+
+
+
 
