@@ -17,7 +17,7 @@
 
 | №  | 🧰 Stack | 🔗 Link | 📝 Description |
 |----|---------|---------|----------------|
-| 1  | Bootstrap | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap) | Classic components on Bootstrap 5: headers, cards, footers. |
+| 1  | Bootstrap | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap) | Classic components on Bootstrap 5: headers, cards, footers and more. |
 | 2  | Tailwind CSS | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/tailwind) | Tailwind is the first solution with a modern design. |
 | 3  | WordPress | [Templates](https://github.com/ovcharovcoder/webkit-pro/tree/main/wordpress) | PHP templates, including integration with ACF, WPML, Polylang. |
 
