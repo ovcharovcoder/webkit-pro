@@ -1,4 +1,4 @@
-# webkit-pro
+# WebKit Pro
 
 **Author**: Andriy Ovcharov;<br>
 **Start of the project**: 11.05.2025;<br>
