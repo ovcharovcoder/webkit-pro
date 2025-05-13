@@ -1,7 +1,7 @@
-## Bootstrap — WebKit Pro Components
+## 📦 Bootstrap — WebKit Pro Components
 
-| №  | Name | Description |
-|----|---------|-------------|
-| 1  | Headers | [A collection of different headers section examples.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/headers) |
-| 2  | Cards | [A collection of different cards section examples.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards) |
-| 3  | Footers | [A collection of different footers section examples.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers) |
+| №  | 🧩 Component | 📄 Description |
+|----|-------------|----------------|
+| 1  | [Headers](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/headers) | A collection of different header examples — from classic navbars to creative dropdowns. |
+| 2  | [Cards](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards) | Versatile card components for products, testimonials, articles, and more. |
+| 3  | [Footers](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers) | Elegant footers: minimal, social, multi-column — to suit every layout. |
