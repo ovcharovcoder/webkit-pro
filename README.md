@@ -1,4 +1,5 @@
 # WebKit Pro
+Modern Code Template Library for Fast & Flexible UI Development
 
 <h2>Info</h2>
 **Author**: Andriy Ovcharov;<br>
@@ -10,10 +11,16 @@
 
 ## Features
 
-- **Flexibility**: components can be modified with any projects that are based on Bootstrap 5 or Tailwind.
-- **Ready templates**: templates for header, footer and other interface elements.
-- **Current design**: stylish, adaptive and lightweight design for various devices.
-- **Modularity**: you can choose only the necessary components for the project.
+- **Flexibility**: — easily adaptable components for any Bootstrap 5 or Tailwind-based project.
+- **Ready templates**: examples of headers, footers, cards, and other interface elements.
+- **Current design**: stylish, responsive, and lightweight components that look great on any device.
+- **Modularity**: pick only what you need. No bloat, no fuss.
+
+## Components
+Each component is plug-and-play, easily customizable, and mobile-ready out of the box.
+
+## How to Use
+**1. Browse Online** Explore components directly via the GitHub interface — navigate folders and copy the code you need:
 
 ## Menu — WebKit Pro
 
@@ -22,6 +29,10 @@
 | 1  | Bootstrap | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap) | Classic components on Bootstrap 5: headers, cards, footers and more. |
 | 2  | Tailwind CSS | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/tailwind) | Tailwind is the first solution with a modern design. |
 | 3  | WordPress | [Templates](https://github.com/ovcharovcoder/webkit-pro/tree/main/wordpress) | PHP templates, including integration with ACF, WPML, Polylang. |
+
+**2. Clone and Use Locally**
+Get the full project on your machine: <code>git clone https://github.com/ovcharovcoder/webkit-pro.git</code>
+
 
 
 
