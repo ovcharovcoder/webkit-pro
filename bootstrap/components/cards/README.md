@@ -1,3 +1,4 @@
+<div style: "display: flex;">
 **Footer №1:
 <a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1">Two simple cards with a title and text in the center.</a>**
 
@@ -69,4 +70,5 @@
 
 <img src="card-12/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
+</div>
 
