@@ -1,4 +1,4 @@
-## 🚀 Bootstrap Headers — WebKit Pro Components
+## Bootstrap Headers — WebKit Pro Components
 
 | №  | Preview | Description |
 |----|---------|-------------|
