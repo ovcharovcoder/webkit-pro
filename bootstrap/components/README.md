@@ -2,7 +2,7 @@
 
 | №  | Name | Description |
 |----|---------|-------------|
-| 1  | [Cards] | [Navigation menu with a form and a drop-down list](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards) |
+| 1  | Cards | [Navigation menu with a form and a drop-down list](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards) |
 | 2  | <img src="header-2/screenshot.png" alt="webkit-pro" width="500" /> | [Navigation menu with drop-down list and button](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/headers/header-2) |
 | 3  | <img src="header-3/screenshot.png" alt="webkit-pro" width="500" /> | [Navigation menu with button](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/headers/header-3) |
 | 4  | <img src="header-4/screenshot.png" alt="webkit-pro" width="500" /> | [Navigation menu with a button and a list in the center](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/headers/header-4) |
