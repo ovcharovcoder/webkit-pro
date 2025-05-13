@@ -1,3 +1,5 @@
+## 📦 Bootstrap Footers — WebKit Pro Components
+
 | № | Preview | Description |
 |--:|:--------|:------------|
 | **Footer №1** | <img src="footer-1/screenshot.png" alt="webkit-pro" width="500"/> | [Simple footer with social media in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/footers/footer-1) |
