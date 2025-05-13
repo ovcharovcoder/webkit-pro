@@ -2,6 +2,18 @@
 |---------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | **[Two simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1)** | **[Three simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-2)** |
 | <img src="card-1/screenshot.png" alt="card-1" width="400"/>              | <img src="card-2/screenshot.png" alt="card-2" width="400"/>              |
+| Card №1                                                                 | Card №2                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **[Two simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1)** | **[Three simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-2)** |
+| <img src="card-1/screenshot.png" alt="card-1" width="400"/>              | <img src="card-2/screenshot.png" alt="card-2" width="400"/>              |
+| Card №1                                                                 | Card №2                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **[Two simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1)** | **[Three simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-2)** |
+| <img src="card-1/screenshot.png" alt="card-1" width="400"/>              | <img src="card-2/screenshot.png" alt="card-2" width="400"/>              |
+| Card №1                                                                 | Card №2                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **[Two simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-1)** | **[Three simple cards with a title and text in the center.](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-2)** |
+| <img src="card-1/screenshot.png" alt="card-1" width="400"/>              | <img src="card-2/screenshot.png" alt="card-2" width="400"/>              |
 
 
 **Card №1:
