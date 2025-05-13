@@ -61,12 +61,12 @@
 **Footer №11:
 <a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-11">Three cards with the author and text on the background of the image is good for a blog.</a>**
 
-<img src="card-10/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-11/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
 **Footer №12:
 <a href="https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap/components/cards/card-12">Three cards for customer testimonials.</a>**
 
-<img src="card-10/screenshot.png" alt="webkit-pro" style="width: 600px;">
+<img src="card-12/screenshot.png" alt="webkit-pro" style="width: 600px;">
 <br>
 
