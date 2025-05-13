@@ -1,3 +1,3 @@
-Navigation menu with a form and a drop-down list.
+**Three cards with an carusel, author, date and text is for a blog.**
 
 <img src="screenshot.png" alt="webkit-pro" style="width: 800px;">
