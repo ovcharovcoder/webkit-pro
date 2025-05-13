@@ -1,4 +1,4 @@
-## 📦 Bootstrap Footers — WebKit Pro Components
+## Bootstrap Footers — WebKit Pro Components
 
 | № | Preview | Description |
 |--:|:--------|:------------|
