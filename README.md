@@ -26,7 +26,7 @@ Explore components directly via the GitHub interface — navigate folders and co
 
 **Menu — WebKit Pro**
 
-| №  | 🧰 Stack | 🔗 Link | 📝 Description |
+| №  | Stack | Link | Description |
 |----|---------|---------|----------------|
 | 1  | Bootstrap | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/bootstrap) | Classic components on Bootstrap 5: headers, cards, footers and more. |
 | 2  | Tailwind CSS | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/tailwind) | Tailwind is the first solution with a modern design. |
