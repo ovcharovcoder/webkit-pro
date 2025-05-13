@@ -1,5 +1,3 @@
-<h3>Bootstrap Card Examples</h3>
-
 ## 📦 Bootstrap Cards — WebKit Pro Components
 
 | №  | Preview | Description |
