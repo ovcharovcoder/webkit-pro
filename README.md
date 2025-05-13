@@ -22,7 +22,7 @@ Modern code template library for fast & flexible UI development
 Each component is plug-and-play, easily customizable, and mobile-ready out of the box.
 
 ## How to use
-**Browse Online**<br> Explore components directly via the GitHub interface — navigate folders and copy the code you need:
+Explore components directly via the GitHub interface — navigate folders and copy the code you need:
 
 **Menu — WebKit Pro**
 
