@@ -13,7 +13,7 @@
 - **Current design**: stylish, adaptive and lightweight design for various devices.
 - **Modularity**: you can choose only the necessary components for the project.
 
-## Menu — WebKit Pro Components
+## Menu — WebKit Pro
 
 | №  | 🧰 Stack | 🔗 Link | 📝 Description |
 |----|---------|---------|----------------|
