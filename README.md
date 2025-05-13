@@ -1,5 +1,5 @@
 # WebKit Pro
-Modern Code Template Library for Fast & Flexible UI Development
+Modern code template library for fast & flexible UI development
 
 <h2>Info</h2>
 
