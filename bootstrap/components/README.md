@@ -1,4 +1,4 @@
-## 📦 Bootstrap — WebKit Pro Components
+## Bootstrap — WebKit Pro Components
 
 | №  | 🧩 Component | 📄 Description |
 |----|-------------|----------------|
