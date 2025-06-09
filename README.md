@@ -32,9 +32,10 @@ Explore components directly via the GitHub interface — navigate folders and co
 | 2  | Tailwind CSS | [Components](https://github.com/ovcharovcoder/webkit-pro/tree/main/tailwind) | Tailwind is the first solution with a modern design. |
 | 3  | WordPress | [Templates](https://github.com/ovcharovcoder/webkit-pro/tree/main/wordpress) | PHP templates, including integration with ACF, WPML, Polylang. |
 
-
+<br>
 ## ☕ Enjoyed the build? 
 Treat the author to a coffee via [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
+<br>
 
 
 
