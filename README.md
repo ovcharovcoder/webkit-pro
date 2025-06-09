@@ -33,6 +33,8 @@ Explore components directly via the GitHub interface — navigate folders and co
 | 3  | WordPress | [Templates](https://github.com/ovcharovcoder/webkit-pro/tree/main/wordpress) | PHP templates, including integration with ACF, WPML, Polylang. |
 
 
+## ☕ Enjoyed the build? 
+Treat the author to a coffee via [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
 
 
 
